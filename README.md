@@ -1,4 +1,4 @@
-### стиль
+# стиль
 
 A simple, blank dev environment that we use at [Fifty6](http://fifty6.net).
 No clutter, configured with SCSS via Compass.
