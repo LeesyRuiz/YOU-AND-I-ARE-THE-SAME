@@ -32,13 +32,8 @@ body {
     height: 100%;
 }
 
-.fifty6 {
-    @include boxflex;
-}
-
 @media (max-device-width:769px) {
-    .fifty6 img {
-        width: 50%;
-        height: 50%;
+    .fifty6 {
+        
     }
 }
