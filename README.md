@@ -4,6 +4,8 @@ A simple, blank dev environment that we use at [Fifty6](http://fifty6.net).
 
 No clutter, configured with SCSS via Compass.
 
+![стиль](https://raw.githubusercontent.com/Fifty6/YOU-AND-I-ARE-THE-SAME/master/assets/you-and-i-are-the-same.png "стиль")
+
 ##How to Use
 
 To use this you'll need [Compass](http://compass-style.org/).
