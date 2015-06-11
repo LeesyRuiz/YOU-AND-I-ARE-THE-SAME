@@ -1,15 +1,23 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 html,
 body {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
 }
+
+//declare variables here so that you don't have to write/change 100 things over during process
+
+$font-family: Helvetica Neue;
+$header-font-family: Helvetica Neue;
+$font-size: 1.2em;
+$line-height: 1.6;
+
+$text-color:#fff;
+$background-color:#000;
+
 
 @mixin boxflex {
     display: -webkit-box;
