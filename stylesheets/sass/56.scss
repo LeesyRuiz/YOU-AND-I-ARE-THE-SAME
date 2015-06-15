@@ -11,6 +11,17 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+//declare variables here so that you don't have to write/change 100 things over during process
+
+$font-family: Helvetica Neue;
+$header-font-family: Helvetica Neue;
+$font-size: 1.2em;
+$line-height: 1.6;
+
+$text-color:#fff;
+$background-color:#000;
+
+
 @mixin boxflex {
     display: -webkit-box;
     display: -moz-box;
