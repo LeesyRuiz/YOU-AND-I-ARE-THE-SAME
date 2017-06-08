@@ -6,7 +6,7 @@ Configured with SCSS via Compass.
 
 ![стиль](https://raw.githubusercontent.com/Fifty6/YOU-AND-I-ARE-THE-SAME/master/assets/you-and-i-are-the-same.png "стиль")
 
-##How to Use
+## How to Use
 
 To use this you'll need [Compass](http://compass-style.org/).
 
